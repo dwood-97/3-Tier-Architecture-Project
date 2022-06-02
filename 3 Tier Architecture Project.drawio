@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T21:24:53.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="hgYnwH0uLcpmp_zPzF5s" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T21:25:31.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Cu5usuLhiLRkd0DQocWf" version="18.2.1" type="github">
   <diagram id="cNozhbeczCp_ilWeaFtp" name="Page-1">
-    <mxGraphModel dx="12062" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" background="none" math="0" shadow="1">
+    <mxGraphModel dx="2062" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RBToDE181mA5xHdnnoun-6" value="Availability zone" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="360" height="960" as="geometry" />
+          <mxGeometry x="80" y="80" width="360" height="960" as="geometry" />
         </mxCell>
         <mxCell id="RBToDE181mA5xHdnnoun-8" value="Availability zone" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="80" width="360" height="960" as="geometry" />
+          <mxGeometry x="520" y="80" width="360" height="960" as="geometry" />
         </mxCell>
         <mxCell id="RBToDE181mA5xHdnnoun-9" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;rounded=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="40" width="960" height="1040" as="geometry" />
+          <mxGeometry y="40" width="960" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="RBToDE181mA5xHdnnoun-10" value="VPC" style="shape=mxgraph.ibm.box;prType=vpc;fontStyle=0;verticalAlign=top;align=left;spacingLeft=9;spacingTop=29;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#4376BB;strokeWidth=2;dashed=0;container=1;spacing=-5;collapsible=0;expand=0;recursiveResize=0;fontSize=12;spacingRight=0;" parent="1" vertex="1">
-          <mxGeometry y="120" width="880" height="880" as="geometry" />
+          <mxGeometry x="40" y="120" width="880" height="880" as="geometry" />
         </mxCell>
         <mxCell id="RBToDE181mA5xHdnnoun-11" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;rounded=0;" parent="RBToDE181mA5xHdnnoun-10" vertex="1">
           <mxGeometry x="120" y="40" width="200" height="200" as="geometry" />
